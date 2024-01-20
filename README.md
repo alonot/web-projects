@@ -1,7 +1,9 @@
 # web-projects
 
 This repository is single location to find all my web-projects
-
+  
+  ## .  Kridamandal: Frontend : Individual -
+      https://github.com/alonot/Kridamandal
   ## .  DevFolio: Full Stack : Team -
       backend - https://github.com/alonot/DevfolioBackEnd
       frontend - https://github.com/alonot/Devfolio
